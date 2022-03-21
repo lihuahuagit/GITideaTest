@@ -1,6 +1,8 @@
 public class Cc {
      int id;
      String name;
+     int age;
+     string address;
 
     public int getId() {
         return id;
