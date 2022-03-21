@@ -1,6 +1,7 @@
 public class Cc {
      int id;
      String name;
+     double age;
 
     public int getId() {
         return id;
